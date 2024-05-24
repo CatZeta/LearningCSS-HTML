@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Clone</title>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <section class="header">
+            <div class="header-left">
+                <span id="logo"></span>
+                <div id="deliver">
+                    <span id="location-icon" class="material-symbols-outlined">
+                        location_on
+                    </span>
+                    <span class="block-text">
+                        <p id="deliver-to">Deliver to</p>
+                        <strong>Portugal</strong>
+                    </span>
+                </div>
+            </div>
+
+            <div class="search-bar">
+                <button id="all-filter">All</button>
+                <button id="dropdown">&#9662;</button>
+                <input type="text" placeholder="Search Amazon">
+                <button id="search-icon" class="material-symbols-outlined">
+                    search
+                </button id="search-icon">
+            </div>
+
+            <div class="header-right">
+                <div class="lang">
+                    <span id="lang-flag"></span>
+                    <p>EN</p>
+                    <span id="dropdown">&#9662;</span>
+                </div>
+
+                <div class="sign-in">
+                    <div>
+                        <p>Hello, sign in</p>
+                        <strong>Account & Lists</strong>
+                    </div>
+                    <span id="dropdown">&#9662;</span>
+                </div>
+
+                <div class="orders">
+                    <div>
+                        <p>Retuns</p>
+                        <strong>& Orders</strong>
+                    </div>
+                    <span id="dropdown">&#9662;</span>
+                </div>
+
+                <div class="cart">
+                    <span class="material-symbols-outlined">
+                        shopping_cart
+                    </span>
+                    <strong>Cart</strong>
+                </div>
+            </div>
+
+        </section>
+        
+        <nav>
+            <ul>
+                <li><a href="#"><span id="menu-icon" class="material-symbols-outlined">
+                            menu
+                        </span> All</a></li>
+                <li><a href="#">Today's Deals</a></li>
+                <li><a href="#">Customer Service</a></li>
+                <li><a href="#">Gift Cards</a></li>
+                <li><a href="#">Registry</a></li>
+                <li><a href="#">Sell</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!--carousel-->
+        <section class="background-carousel">
+
+            <input type="radio" name="images" id="i1" checked>
+            <input type="radio" name="images" id="i2">
+            <input type="radio" name="images" id="i3">
+
+            <!--Img_1-->
+            <div class="carousel-img" id="one">
+
+                <img src="./assets/carousel/toys.jpg">
+
+                <label for="i3" class="pre"><span class="material-symbols-outlined">
+                        arrow_back_ios
+                    </span></label>
+                <label for="i2" class="nxt"><span class="material-symbols-outlined">
+                        arrow_forward_ios
+                    </span></label>
+
+            </div>
+
+            <!--Img_2-->
+            <div class="carousel-img" id="two">
+
+                <img src="./assets/carousel/gamers.jpg">
+
+                <label for="i1" class="pre"><span class="material-symbols-outlined">
+                        arrow_back_ios
+                    </span></label>
+                <label for="i3" class="nxt"><span class="material-symbols-outlined">
+                        arrow_forward_ios
+                    </span></label>
+
+            </div>
+
+            <!--Img_3-->
+            <div class="carousel-img" id="three">
+
+                <img src="./assets/carousel/books.jpg">
+
+                <label for="i2" class="pre"><span class="material-symbols-outlined">
+                        arrow_back_ios
+                    </span></label>
+                <label for="i1" class="nxt"><span class="material-symbols-outlined">
+                        arrow_forward_ios
+                    </span></label>
+
+            </div>
+        </section>
+
+        <div class="main-overlay">
+            <!--Grid #1-->
+            <section class="inline-grid grid-1">
+                <div class="card card-1">
+                    <div class="card-header">
+                        <h3>Gaming accessories</h3>
+                    </div>
+                    <div class="card-body">
+
+                        <!--Item 1-->
+                        <div class="item-1">
+                            <img src="./assets/cards/headsets.jpg" alt="">
+                            <p>Headsets</p>
+                        </div>
+
+                        <!--Item 2-->
+                        <div class="item-2">
+                            <img src="./assets/cards/keyboards.jpg" alt="">
+                            <p>Keyboard</p>
+                        </div>
+
+                        <!--Item 3-->
+                        <div class="item-3">
+                            <img src="./assets/cards/mouse.jpg" alt="">
+                            <p>Computer mice</p>
+                        </div>
+
+                        <!--Item 4-->
+                        <div class="item-4">
+                            <img src="./assets/cards/chair.jpg" alt="">
+                            <p>Chairs</p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">See more</a>
+                    </div>
+                </div>
+
+                <!--Card 2-->
+                <div class="card card-2">
+                    <div class="card-header">
+                        <h3>Refresh your space</h3>
+                    </div>
+                    <div class="card-body">
+
+                        <!--Item 1-->
+                        <div class="item-1">
+                            <img src="./assets/cards/dinning.jpg" alt="">
+                            <p>Dinning</p>
+                        </div>
+
+                        <!--Item 2-->
+                        <div class="item-2">
+                            <img src="./assets/cards/home.jpg" alt="">
+                            <p>Home</p>
+                        </div>
+
+                        <!--Item 3-->
+                        <div class="item-3">
+                            <img src="./assets/cards/kitchen.jpg" alt="">
+                            <p>Kitchen</p>
+                        </div>
+
+                        <!--Item 4-->
+                        <div class="item-4">
+                            <img src="./assets/cards/health.jpg" alt="">
+                            <p>Health</p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">See more</a>
+                    </div>
+                </div>
+
+                <!--Card 3-->
+                <div class="card card-3">
+                    <div class="card-header">
+                        <h3>Shop deals in Fashin</h3>
+                    </div>
+                    <div class="card-body">
+
+                        <!--Item 1-->
+                        <div class="item-1">
+                            <img src="./assets/cards/jeans.jpg" alt="">
+                            <p>Jeans under $50</p>
+                        </div>
+
+                        <!--Item 2-->
+                        <div class="item-2">
+                            <img src="./assets/cards/tops.jpg" alt="">
+                            <p>Topsunde $25</p>
+                        </div>
+
+                        <!--Item 3-->
+                        <div class="item-3">
+                            <img src="./assets/cards/dresses.jpg" alt="">
+                            <p>Dressesunder $30</p>
+                        </div>
+
+                        <!--Item 4-->
+                        <div class="item-4">
+                            <img src="./assets/cards/shoes.jpg" alt="">
+                            <p>Shoes under $50</p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">See more</a>
+                    </div>
+                </div>
+
+                <!--Card 4-->
+                <div class="card card-4">
+                    <div class="card-header">
+                        <h3>Deals in Pc's</h3>
+                    </div>
+                    <div class="card-body">
+                        <img src="./assets/cards/pc.jpg" alt="">
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">Shop now</a>
+                    </div>
+                </div>
+            </section>
+
+            <!--Grid #2-->
+            <section class="inline-grid grid-2">
+
+                <!--Card 1-->
+                <div class="card card-1">
+                    <div class="card-header">
+                        <h3>Amazon Gadget Store</h3>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="container">
+                            <!--Item 1-->
+                            <div class="item-1">
+                                <img src="./assets/cards/smartphones.jpg" alt="">
+                                <p>Smartphones</p>
+                            </div>
+                        </div>
+
+                        <div class="items-row">
+                            <!--Item 2-->
+                            <div class="item-2">
+                                <img src="./assets/cards/tablets.jpg" alt="">
+                                <p>Tablets</p>
+                            </div>
+
+                            <!--Item 3-->
+                            <div class="item-3">
+                                <img src="./assets/cards/laptops.jpg" alt="">
+                                <p>Laptops</p>
+                            </div>
+
+                            <!--Item 4-->
+                            <div class="item-4">
+                                <img src="./assets/cards/tv.jpg" alt="">
+                                <p>TVs</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">Shop all</a>
+                    </div>
+                </div>
+
+                <!--Card 2-->
+                <div class="card card-2">
+                    <div class="card-header">
+                        <h3>Deals on gifts for Dad</h3>
+                    </div>
+                    <div class="card-body">
+
+                        <!--Item 1-->
+                        <div class="item-1">
+                            <img src="./assets/cards/tech.jpg" alt="">
+                            <p>Tech</p>
+                        </div>
+
+                        <!--Item 2-->
+                        <div class="item-2">
+                            <img src="./assets/cards/gear.jpg" alt="">
+                            <p>Adventure gear</p>
+                        </div>
+
+                        <!--Item 3-->
+                        <div class="item-3">
+                            <img src="./assets/cards/unique.jpg" alt="">
+                            <p>Unique finds</p>
+                        </div>
+
+                        <!--Item 4-->
+                        <div class="item-4">
+                            <img src="./assets/cards/weallness.jpg" alt="">
+                            <p>Health & Wellness</p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">Shop all</a>
+                    </div>
+                </div>
+
+                <!--Card 3-->
+                <div class="card card-4">
+                    <div class="card-header">
+                        <h3>Top Deal</h3>
+                    </div>
+                    <div class="card-body">
+                        <img src="./assets/cards/shoe4.jpg" alt="">
+                        <div class="card-text">
+                            <strong>
+                                <span id="tag">Up to 43% off</span>
+                                Limited time deal
+                            </strong>
+                            <p>Stylish Summer from Dream Pairs</p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">See all deals</a>
+                    </div>
+                </div>
+
+
+                <!--Card 4-->
+                <div class="card card-4">
+                    <div class="card-header">
+                        <h3>Deals in Pc's</h3>
+                    </div>
+                    <div class="card-body">
+                        <img src="./assets/cards/toy.jpg" alt="">
+                    </div>
+                    <div class="card-footer">
+                        <a href="#">Shop now</a>
+                    </div>
+                </div>
+            </section>
+
+            <!--Slider #1-->
+            <section class="slider">
+                <div class="slider-header">
+                    <h3>Popular products in Wireless internationally</h3>
+                </div>
+                <div class="content">
+                    <button class="nav-btn prev-btn">&#10094;</button>
+                    <div class="slider-item"><img src="./assets/sliders/charger.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/sim.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/painel.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/glass.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/desktop.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/watch.jpg" alt=""></div>
+                    <div class="slider-item"><img src="./assets/sliders/charger.jpg" alt=""></div>                    <div class="slider-item"></div><img src="./assets/sliders/watch.jpg" alt="">
+                    <button class="nav-btn next-btn">&#10095;</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer></footer>
+</body>
+
+</html>
