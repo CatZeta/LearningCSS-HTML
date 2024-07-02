@@ -2,10 +2,10 @@
 <template>
     <div class="container">
         <!--Item 1-->
-        <div class="item item-1" v-if="article && article.length > 2">
+        <div class="item item-1" v-if="article && article.length">
             <div class="row-1">
                 <a href="#">
-                    <span v-if="article[0].source.id" class="green-tag">{{ article[0].source.id }}</span>
+                    <span v-if="article[0].source_id" class="green-tag">{{ article[0].source_id }}</span>
                     <h3>{{ article[0].title }}</h3>
                     <p>{{ article[0].author }}, {{ article[0].publishedAt.slice(11, 16)}}</p>
                 </a>
@@ -71,16 +71,17 @@
         </div>
         <!--Anuncio-->
         <div class="anuncio">
-            <span class="anuncio-box">
+            <div class="anuncio-box">
                 <h6>anuncio</h6>
                 <p>Procura-se passeador de cães part-time</p>
-            </span>
+            </div>
         </div>
     </div>
 </template>
 
 <script setup>
     import useStocks from '@/composables/useStocks';
+
    
     const props = defineProps({
         article: {

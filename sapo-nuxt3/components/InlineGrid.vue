@@ -1,12 +1,14 @@
 <template>
-
+  <!-- Main grid -->
     <div class="inline" v-if="condition === 'main' || condition === 'both'">
-        <!-- Card#1 -->
+        <!-- Main grid Card#1 -->
         <CardBig :article="article[0]" />
 
-        <!-- Card#2 -->
+        <!-- Main grid Card#2 -->
         <CardSmall :article="article[1]" />
     </div>
+
+    <!-- Secondary grid -->
     <div class="inline" v-if="condition === 'secondary' || condition === 'both'">
         <CardSmall  v-for="(art, index) in article.slice(2, 5)" :key="index" :article="art" />
     </div>
