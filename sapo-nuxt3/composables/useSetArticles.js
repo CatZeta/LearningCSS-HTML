@@ -1,7 +1,8 @@
-// composables/useFetchArticles.js
+// composables/useSetArticles.js
+//Used to populate the database with articles from the API
 //Used to populate the database with articles from the API
 
-export const useFetchArticles = async () => {
+export const useSetArticles = async () => {
     const {$supabase} = useNuxtApp()
     const response = await fetch('https://newsapi.org/v2/everything?q=economy&apiKey=f7aa8d11c597482e828eabd5f4f1f7b3') // Substitua com sua URL da API
     const data = await response.json()

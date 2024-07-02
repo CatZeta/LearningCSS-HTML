@@ -13,8 +13,8 @@
                         <a href="#"><i class="material-symbols-outlined">mouse</i></a>
                         <a href="#"><i class="material-symbols-outlined">sms</i></a>
                     </div>
-                    <span v-if="article.source.id" class="tag green-tag">
-                        {{ article.source.id }}
+                    <span v-if="article.source_id" class="tag green-tag">
+                        {{ article.source_id }}
                     </span>
                 </div>
             </div>

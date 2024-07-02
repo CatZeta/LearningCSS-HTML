@@ -1,9 +1,9 @@
 import { ref, computed } from 'vue';
-import { useFetchArticles } from '@/composables/useFetchArticles.js';
+import { useSetArticles } from '~/composables/useSetArticles.js';
 
 const useNews = () => {
 
-    const { articles, error, loading } = useFetchArticles();
+    const { articles, error, loading } = useSetArticles();
 
     const coverArticles = computed(() => {
         return articles.value.filter((article, index) => [1, 2, 3, 4, 5].includes(index));
