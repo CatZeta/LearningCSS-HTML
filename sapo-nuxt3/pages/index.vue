@@ -23,11 +23,14 @@
 
 <script setup>
 
-const {data: articles} = await useFetch('/api/articles')
+const {data: articles} = await useFetch('/api/articles?table=stocks')
 // console.log('articles', articles.value)
 
 //Update database through real time api
-// onMounted(async () => await useSetArticles())
+// onMounted(async () =>
+//     await useSetArticles('stocks')
+//
+// )
 
 
 </script>
