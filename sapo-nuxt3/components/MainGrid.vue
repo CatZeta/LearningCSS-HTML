@@ -102,7 +102,7 @@
 
    
 
-    console.log('MainGrid prop result:', props.article)
+    // console.log('MainGrid prop result:', props.article)
 </script>
 
 <style scoped>

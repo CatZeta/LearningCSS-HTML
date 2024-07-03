@@ -9,9 +9,7 @@
 </template>
 
 <script setup>
-  import { defineProps } from 'vue';
-
-  const props = defineProps({
+defineProps({
     article: {
       type: Object,
       required: true
