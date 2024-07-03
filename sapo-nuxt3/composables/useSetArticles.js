@@ -3,7 +3,8 @@
 
 export const useSetArticles = async (table) => {
     const { $supabase } = useNuxtApp();
-    const apiKey = 'f7aa8d11c597482e828eabd5f4f1f7b3';
+    const config = useRuntimeConfig()
+    const apiKey = config.public.apiKey;
     const endpoint = `https://newsapi.org/v2/everything?q=${table}&apiKey=${apiKey}`;
     try {
         const response = await fetch(endpoint);

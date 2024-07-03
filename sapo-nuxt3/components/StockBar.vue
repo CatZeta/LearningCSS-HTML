@@ -21,7 +21,7 @@
 </template>
 
 <script setup>
-    import  useStocks from '@/composables/useStocks';
+    import  useStocks from '~/composables/useStocks.js';
 
     const { stocks } = useStocks();
     //Verifica a direção da seta (interior da percentage box)

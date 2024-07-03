@@ -15,8 +15,8 @@
 </template>
 
 <script setup>
-import CardBig from '@/components/CardBig.vue';
-import CardSmall from '@/components/CardSmall.vue';
+import CardBig from '~/components/cards/CardBig.vue';
+import CardSmall from '~/components/cards/CardSmall.vue';
 
     const props = defineProps({
         article: {

@@ -80,7 +80,7 @@
 </template>
 
 <script setup>
-    import useStocks from '@/composables/useStocks';
+    import useStocks from '~/composables/useStocks.js';
 
    
     const props = defineProps({

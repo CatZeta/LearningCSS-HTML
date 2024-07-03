@@ -6,7 +6,7 @@
             <a href="#"> CAPAS DE JORNAIS</a>
         </div>
         <div id="logo-sapo">
-            <img src="../assets/sapo.png" alt="sapo logo">
+            <img src="../../assets/sapo.png" alt="sapo logo">
             <p>SAPO</p>
         </div>
     </header>
@@ -17,7 +17,7 @@
             <a href="#"><i class="material-symbols-outlined">search</i></a>
         </div>
         <div id="logo-eco">
-            <img src="../assets/eco.png" alt="sapo logo">
+            <img src="../../assets/eco.png" alt="sapo logo">
         </div>
         <div class="right-menu">
             <a href="#">Entrar</a>
