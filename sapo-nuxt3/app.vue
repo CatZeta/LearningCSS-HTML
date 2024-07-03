@@ -7,7 +7,7 @@ const articles = ref([])
 
 onMounted(async () => {
   // fetch e insere novos artigos (Apenas 1 execução para popular a tabela)
- // await useFetchArticles()
+  // await useFetchArticles()
 
   // Em seguida, recupera todos os artigos da tabela
   articles.value = await useGetArticles()
