@@ -7,15 +7,15 @@
                     <p>Em Direto</p>
                 </div>
             </div>
-            <div class="center-content" v-if="article && article.length > 0">
-                <h2>{{ article[0].title }}</h2>
+            <div class="center-content" v-if="articles && articles.length > 0">
+                <h2>{{ articles[0].title }}</h2>
             </div>
             <div class="left-content">
                 <i class="material-symbols-outlined arrow-icon">arrow_forward</i>
             </div>
         </div>
         <div class="news">
-            <div class="news-item" v-for="art in article.slice(1, 4)" :key="art.id">
+            <div class="news-item" v-for="art in articles.slice(1, 4)" :key="art.id">
                 <span class="material-symbols-outlined clock-icon">
                     nest_clock_farsight_analog
                 </span>
@@ -26,12 +26,7 @@
 </template>
 
 <script setup>
-    const props = defineProps({
-        article: {
-            type: Array,
-            required: true
-        }
-    })
+    const {data: articles} = await useFetch('/api/articles?table=stocks')
 </script>
 
 <style scoped>

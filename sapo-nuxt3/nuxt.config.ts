@@ -8,5 +8,7 @@ export default defineNuxtConfig({
       apiKey: process.env.API_KEY
     }
   },
-
+  css: [
+    '@/assets/styles/global.css'
+  ]
 })
