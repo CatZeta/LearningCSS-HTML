@@ -1,6 +1,9 @@
 <template>
   <NuxtLayout>
-    <NuxtPage />
+<!--    <NuxtPage />-->
+
+    <Button label="Check" icon="pi pi-check" />
+
   </NuxtLayout>
 </template>
 

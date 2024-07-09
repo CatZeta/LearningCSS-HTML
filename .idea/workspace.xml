@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7f93f9-9f9d-40bb-bbea-08506e1e8489" name="Changes" comment="Cleaning branch">
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/chair.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/dinning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/dresses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/gear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/headsets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/health.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/jeans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/keyboards.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/kitchen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/laptops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/mouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/pc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/shoe4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/shoes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/smartphones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/tablets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/tech.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/tops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/toy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/tv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/unique.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/cards/weallness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/carousel/books.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/carousel/gamers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/carousel/kitchen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/carousel/toys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/header/amazon_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/header/flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/quimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/charger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/glass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/painel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/sim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/assets/sliders/watch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon-cssPuro/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/app.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/nuxt.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/server/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primevue-test.v4/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/assembleia.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/assustado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/chega.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/eco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/marcelo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/montenegro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/muitos.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/quimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/random.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/random2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/random3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/sapo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/sds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/assets/von.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sapo-cssPuro/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/assets/header/amazon_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/assets/header/flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/CarouselView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/Slider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/cards/Card_topDeal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/cards/Card_x1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/cards/Card_x3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/cards/Card_x4.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/cards/Card_x4_bg.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/navBar/NavigationBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/components/navBar/Userbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/composables/useFetch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/views/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/views/Inlinegrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/views/NavBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/src/views/Recommendations.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-amazon/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/oldOne/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/oldOne/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/assets/eco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/assets/graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/assets/quimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/assets/sapo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/assets/styles/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/ArticleFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/CardBig.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/CardSmall.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/Cover.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/InlineGrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/LiveBox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/MainGrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/StockBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/components/Tags.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/composables/useFetch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/composables/useNews.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/composables/useStocks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-sapo/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CatZeta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CatZeta/LearningCSS.git&quot;,
+    &quot;accountId&quot;: &quot;475c875d-d7bd-4ce6-bc2e-a867c2755d9c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2imSSgnJtXfk67UQJ4ukflrH7JL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "nuxt3-PrimevueRefactor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7f93f9-9f9d-40bb-bbea-08506e1e8489" name="Changes" comment="" />
+      <created>1720094261530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720094261530</updated>
+      <workItem from="1720094264593" duration="27000" />
+      <workItem from="1720094441858" duration="12000" />
+      <workItem from="1720094478007" duration="97000" />
+      <workItem from="1720520234562" duration="50000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cleaning branch">
+      <option name="closed" value="true" />
+      <created>1720520280723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720520280723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cleaning branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning branch" />
+  </component>
+</project>
